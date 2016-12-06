@@ -41,6 +41,7 @@ def print_footer(students)
     puts "Overall, we have #{students.count} great student"
   elsif students.length > 1
     puts "Overall, we have #{students.count} great students"
+  end
 end
 
 # nothing happens until we call the methods
